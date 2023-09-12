@@ -1,2 +1,6 @@
-# graph-change-notification-builder
-Microsoft Graph Change Notification Builder
+# Microsoft Graph Change Notification Builder
+## Quickly build syntactically correct subscription requests for Microsoft Graph.
+
+Access at: graphnotifications.dev
+
+
